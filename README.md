@@ -13,4 +13,4 @@
 
 
 <!--![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=corvus&theme=highcontrast)-->
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=corvus&show_icons=true&locale=en&bg_color=1A1B27)
+<!--![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=corvus&show_icons=true&locale=en&bg_color=1A1B27) -->
