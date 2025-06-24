@@ -1,15 +1,24 @@
-<h1 align="center">Hi !, I'm Kiram Firas Mohamed El Amine</h1>
-<h3 align="center">I'm a Student in University Mohamed Khider of Biskra</h3>
+## Hi ! , I'm Kiram Firas Mohamed El Amine 👋
+
+## About Me
+
+<h3 align="center">I'm an AI student at Mohamed Khider University of Biskra I love diving into the details behind complex systems, constantly exploring how they work at a deeper level. As they said Learning Never Ends , striving to learn something new every single day. 
+I'm mostly into Competitive Programming as i enjoy the idea of using the machine to solve complex human problems .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corvus&label=Profile%20views&color=0e75b6&style=flat" alt="corvus" /> </p>
 
-<p>Competitive Programmer</p>
-<p align="left">
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Programming Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- **Web Development:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Tools and Frameworks:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
+## Currently Learning
+
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0033A0?style=flat&logo=pytorch&logoColor=white)
+
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-Kiram&layout=compact&theme=radical)
 
