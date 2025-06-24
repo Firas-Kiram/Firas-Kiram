@@ -3,8 +3,8 @@
 
 ## About Me
 
-<h3 align="center">I'm an AI student at Mohamed Khider University of Biskra I love diving into the details behind complex systems, constantly exploring how they work at a deeper level. As they said Learning Never Ends , striving to learn something new every single day. 
-I'm mostly into Competitive Programming as i enjoy the idea of using the machine to solve complex human problems .</h3>
+<p align="center">I'm an AI student at Mohamed Khider University of Biskra I love diving into the details behind complex systems, constantly exploring how they work at a deeper level. As they said Learning Never Ends , striving to learn something new every single day. 
+I'm mostly into Competitive Programming as i enjoy the idea of using the machine to solve complex human problems .</p>
 
 
 ## Skills
